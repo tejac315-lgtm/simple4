@@ -1,6 +1,2 @@
 Project: Git Conflict Lab
-
-Status: feature one
-
-
-
+Status: Feature One and Feature Two
